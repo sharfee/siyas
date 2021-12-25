@@ -382,7 +382,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "where am i studied and studying";
+    content: "Schools";
 }
 .teams .carousel .card{
     background: rgb(19,47,187);
